@@ -1,0 +1,9 @@
+﻿  异常处理.cpp
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(1544): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(3190): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+  main.cpp
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(1544): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(3190): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+  正在生成代码...
+  test.vcxproj -> D:\MyCode\调试器test\Debug\test.exe
+  test.vcxproj -> D:\MyCode\调试器test\Debug\test.pdb (Full PDB)
